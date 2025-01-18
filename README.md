@@ -1,7 +1,6 @@
-  location /signin {
+ location /signin {
 	alias html;
 	index authorization.html;
-	
        }
 
  location / {
